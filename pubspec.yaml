@@ -1,0 +1,12 @@
+name: 'deferred_load'
+version: 0.0.1
+description: >
+  Demonstrates a bug in dart2js deferred loading
+#author: Alan Knight
+#homepage: https://www.example.com
+
+environment:
+  sdk: '>=1.0.0 <2.0.0'
+
+dependencies:
+  browser: '>=0.10.0 <0.11.0'
